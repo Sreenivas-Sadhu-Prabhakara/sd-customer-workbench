@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-workbench
+description: "BIAN Service Domain: Customer Workbench (Operate pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Channels"
+  bian/asset-type: "Servicing Session"
+  bian/control-record: "Servicing Session Operating Session"
